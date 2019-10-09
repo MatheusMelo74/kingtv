@@ -15,7 +15,7 @@
 
 ########################## VARIEDADES ##########################
 <item>
-<title>[B][COLOR lime]FOX[/COLOR] [COLOR gold][B]SD/HD[/B][/COLOR]</title>
+<title>[B][COLOR white]FOX[/COLOR] [COLOR gold][B]SD/HD[/B][/COLOR]</title>
 <link>http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8$$lsname=[COLOR gold][B]SD[/B][/COLOR]</link>
 <link>http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8$$lsname=[COLOR gold][B]HD[/B][/COLOR]</link>
 <thumbnail>https://ia801406.us.archive.org/30/items/foxchannelgermany.svg/FOX-Channel-Germany.svg.png</thumbnail>
