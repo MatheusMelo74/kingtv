@@ -4,9 +4,7 @@
 <thumbnail>https://ia601407.us.archive.org/9/items/bemvindo_20191009/bemvindo.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801406.us.archive.org/18/items/fanart_20191009/fanart.jpg</fanart>
-<info>
-
-[COLOR deeppink]|[/COLOR] - FILMES, SERIES, TV ONLINE, FUTEBOL E MUITO MAIS EM UM SÓ LUGAR!  - [COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR deeppink]|[/COLOR] - FILMES, SERIES, TV ONLINE, FUTEBOL E MUITO MAIS EM UM SÓ LUGAR!  - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -17,9 +15,7 @@
 <thumbnail>https://archive.org/download/tv24h/tv24h.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/MatheusMelo74/kingtv/master/canais</externallink>
 <fanart>https://ia801406.us.archive.org/18/items/fanart_20191009/fanart.jpg</fanart>
-<info>
-
-[COLOR deeppink]|[/COLOR] - ASSISTA OS MELHORES CANAIS E AO MELHOR DO CAMPEONATO BRASILEIRO. - [COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR deeppink]|[/COLOR] - ASSISTA OS MELHORES CANAIS E AO MELHOR DO CAMPEONATO BRASILEIRO. - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -30,10 +26,7 @@
 <thumbnail>https://ia601508.us.archive.org/4/items/kingseries/king%20filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/MatheusMelo74/kingtv/master/FILMES</externallink>
 <fanart>https://ia801406.us.archive.org/18/items/fanart_20191009/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - OS MELHORES FILMES LANÇAMENTOS CHEGAM AQUI PRIMEIRO! - [COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR deeppink]|[/COLOR] - OS MELHORES FILMES LANÇAMENTOS CHEGAM AQUI PRIMEIRO! - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -44,10 +37,18 @@
 <thumbnail>https://ia601508.us.archive.org/4/items/kingseries/king%20series.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/MatheusMelo74/kingtv/master/SERIES</externallink>
 <fanart>https://ia801406.us.archive.org/18/items/fanart_20191009/fanart.jpg</fanart>
-<info>
+<info>[COLOR deeppink]|[/COLOR] - OS MELHORES FILMES LANÇAMENTOS CHEGA AQUI PRIMEIRO! - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
 
-
-[COLOR deeppink]|[/COLOR] - OS MELHORES FILMES LANÇAMENTOS CHEGA AQUI PRIMEIRO! - [COLOR deeppink]|[/COLOR]</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR white][B]KING ANIMES[/B][/COLOR][COLOR red] [B]EM BREVE[/B][/COLOR]</name>
+<thumbnail>https://ia601508.us.archive.org/4/items/kingseries/king%20series.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/MatheusMelo74/kingtv/master/SERIES</externallink>
+<fanart>https://ia801406.us.archive.org/18/items/fanart_20191009/fanart.jpg</fanart>
+<info>[COLOR deeppink]|[/COLOR] - OS MELHORES FILMES LANÇAMENTOS CHEGA AQUI PRIMEIRO! - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
