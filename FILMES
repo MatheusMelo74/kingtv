@@ -1,11 +1,11 @@
   
 <item>
-<title>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]LANÇAMENTOS [/COLOR]</title>
+<title>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white][B]LANCAMENTOS[/B][/COLOR]</title>
 <thumbnail></thumbnail>
 <link>https://</link>
 
 <item>
-<title>[B] - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](HD720)[/COLOR] - DUBLADO[/B]</title>
+<title>[B] - [COLOR deeppink](2019)[/COLOR] - DUBLADO[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://?usp=drivesdk</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -14,7 +14,7 @@
 <item>
 
 <item>
-<title>[B][COLOR lime]*NEW  [/COLOR][/B][B]Homem-Aranha: Longe de Casa - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<title>[B][COLOR lime][/COLOR][/B][B]Homem-Aranha: Longe de Casa - [COLOR lime](FULLHD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime]FULLHD[/COLOR] - AUDIO ORIGINAL</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime]FULLHD[/COLOR] - DUBLADO</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR red]HDCAM[/COLOR] - DUBLADO 1</link>
