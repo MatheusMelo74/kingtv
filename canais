@@ -1,41 +1,60 @@
 <item>
-<title>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]TV ONLINE[/COLOR]</title>
+<title>[COLOR gold][B]KINGTV[/B][/COLOR] [COLOR lime][B]ONLINE[/B][/COLOR]</title>
 <thumbnail></thumbnail>
 <link>https://</link>
 
-
+########################## ABERTOS ##########################
 <item>
-<title>[B][COLOR lime]SBT[/COLOR] SD/HD[/B]</title>
-<link>http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8</link>
-<thumbnail>https://archive.org/download/sbt-logo-1/sbt-logo-1.png</thumbnail>
+<title>[B][COLOR white]SBT[/COLOR][/B] [COLOR gold][B]SD/HD[/B][/COLOR]</title>
+<link>http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8$$lsname=[COLOR gold][B]SD[/B][/COLOR]</link>
+<link>http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8$$lsname=[COLOR gold][B]HD[/B][/COLOR]</link>
+<thumbnail>https://archive.org/download/sbt-logo-1/sbt-logo-1.png/thumbnail>
 <fanart>https://ia801406.us.archive.org/18/items/fanart_20191009/fanart.jpg</fanart>
-<info></info>
 </item>
 <item>
 
+########################## VARIEDADES ##########################
 <item>
-<title>[B][COLOR lime]FOX[/COLOR] SD/HD[/B]</title>
-<link>http://premium-iptv.link:7899/teamnet@protonmail.com/HsJmCUFdth/2697</link>
+<title>[B][COLOR lime]FOX[/COLOR] [COLOR gold][B]SD/HD[/B][/COLOR]</title>
+<link>http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8$$lsname=[COLOR gold][B]SD[/B][/COLOR]</link>
+<link>http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8$$lsname=[COLOR gold][B]HD[/B][/COLOR]</link>
 <thumbnail>https://ia801406.us.archive.org/30/items/foxchannelgermany.svg/FOX-Channel-Germany.svg.png</thumbnail>
 <fanart>https://ia801406.us.archive.org/18/items/fanart_20191009/fanart.jpg</fanart>
-<info></info>
 </item>
 <item>
 
+########################## FILMES E SERIES ##########################
 <item>
-<title>[B][COLOR lime]WARNER[/COLOR] SD/HD[/B]</title>
-<link>https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8</link>
+<title>[COLOR white][B]WARNER[/B][/COLOR] [COLOR gold][B]SD/HD[/B][/COLOR]</title>
+<link>https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8$$lsname=[COLOR gold][B]SD[/B][/COLOR]</link>
+<link>https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8$$lsname=[COLOR gold][B]HD[/B][/COLOR]</link>
 <thumbnail>https://i.imgur.com/Kxem8ae.jpg</thumbnail>
 <fanart>https://ia801406.us.archive.org/18/items/fanart_20191009/fanart.jpg</fanart>
-<info></info>
 </item>
 <item>
-
 <item>
-<title>[B][COLOR lime]SPORTV[/COLOR] SD/HD[/B]</title>
-<link>http://painel.ebanonet.com.br:25461/a7891m12ormy/zrpTrmiZRGJ/4327</link>
-<thumbnail>https://ia601502.us.archive.org/4/items/warnerbroslogo4/Warner-Bros-logo-4.png</thumbnail>
+<title>[COLOR white][B]AXN[/B][/COLOR] [COLOR gold][B]SD/HD[/B][/COLOR]</title>
+<link>http://edge.aovivo.club/hls/s:45.32.217.66/axn_cb7a1d77_77f16f6bbe4a5ee043136f6f7c029bd978f740b2/480p/chunklist.m3u8$$lsname=[COLOR gold][B]SD/HD[/B][/COLOR]</link>
+<link>http://edge.aovivo.club/hls/s:45.32.217.66/axn_cb7a1d77_77f16f6bbe4a5ee043136f6f7c029bd978f740b2/480p/chunklist.m3u8$$lsname=[COLOR gold][B]SD/HD[/B][/COLOR]</link>
+<thumbnail>https://ia601408.us.archive.org/29/items/axnb_20191009/axnb.png</thumbnail>
 <fanart>https://ia801406.us.archive.org/18/items/fanart_20191009/fanart.jpg</fanart>
-<info></info>
+</item>
+<item>
+########################## ESPORTES ##########################
+<item>
+<title>[COLOR white][B]SPORTV[/B][/COLOR] [COLOR gold][B]SD/HD[/B][/COLOR]</title>
+<link>http://painel.ebanonet.com.br:25461/a7891m12ormy/zrpTrmiZRGJ/4327$$lsname=[COLOR gold][B]SD[/B][/COLOR]</link>
+<link>http://painel.ebanonet.com.br:25461/a7891m12ormy/zrpTrmiZRGJ/4327$$lsname=[COLOR gold][B]HD[/B][/COLOR]</link>
+<thumbnail>https://i.imgur.com/Kxem8ae.jpg</thumbnail>
+<fanart>https://ia801406.us.archive.org/18/items/fanart_20191009/fanart.jpg</fanart>
+</item>
+<item>
+########################## DESENHOS ##########################
+<item>
+<title>[COLOR white][B]CARTOON NETWORK[/B][/COLOR] [COLOR gold][B]SD/HD[/B][/COLOR]</title>
+<link>http://edge.aovivo.club/hls/s:155.138.226.22/cartoonnetwork_511a418e_b9c44cddc9db4c092806be35c93f3e692ab4d751/410p/chunklist.m3u8 $$lsname=[COLOR gold][B]SD[/B][/COLOR]</link>
+<link>http://edge.aovivo.club/hls/s:155.138.226.22/cartoonnetwork_511a418e_b9c44cddc9db4c092806be35c93f3e692ab4d751/410p/chunklist.m3u8 $$lsname=[COLOR gold][B]HD[/B][/COLOR]</link>
+<thumbnail>https://ia601509.us.archive.org/8/items/cartoonnetworklogo/CARTOON_NETWORK_logo.png</thumbnail>
+<fanart>https://ia801406.us.archive.org/18/items/fanart_20191009/fanart.jpg</fanart>
 </item>
 <item>
