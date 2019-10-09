@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR green]KING TV 24H[/COLOR]</name>
+<name>[COLOR green][B]KING TV 24H[/B][/COLOR]</name>
 <thumbnail>https://archive.org/download/tv24h/tv24h.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/MatheusMelo74/kingtv/master/canais</externallink>
 <fanart>https://ia801406.us.archive.org/18/items/fanart_20191009/fanart.jpg</fanart>
@@ -29,9 +29,9 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
-<name>KING FILMES</name>
+<name>[COLOR green][B]KING FILMES [COLOR Red]ONLINE[/COLOR][/B][/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/18/items/fanart_20191009/icon.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/MatheusMelo74/kingtv/master/FILMES</externallink>
 <fanart>https://ia801406.us.archive.org/18/items/fanart_20191009/fanart.jpg</fanart>
 <info>
 
