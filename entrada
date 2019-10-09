@@ -15,14 +15,28 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]King TV[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]KING TV 24H[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://archive.org/download/tv24h/tv24h.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801406.us.archive.org/18/items/fanart_20191009/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - ASSISTA OS MELHORES CANAIS E AO MELHOR DO CAMPEONATO BRASILEIRO. - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]KING FILMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/18/items/fanart_20191009/icon.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801406.us.archive.org/18/items/fanart_20191009/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - OS MELHORES FILMES LANÇAMENTOS CHEGA AQUI PRIMEIRO! - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
