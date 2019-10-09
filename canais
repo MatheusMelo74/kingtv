@@ -1,0 +1,17 @@
+<item>
+<title>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]TV ONLINE[/COLOR]</title>
+<thumbnail></thumbnail>
+<link>https://</link>
+
+
+<item>
+<title>[B][COLOR lime]WARNER[/COLOR] HD[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime]FULLHD[/COLOR] - AUDIO ORIGINAL</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime]FULLHD[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR red]HDCAM[/COLOR] - DUBLADO 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR red]HDCAM[/COLOR] - DUBLADO 2</link>
+<thumbnail>https://ia801502.us.archive.org/4/items/warnerbroslogo4/Warner-Bros-logo-4.pnghttps://ia801502.us.archive.org/4/items/warnerbroslogo4/Warner-Bros-logo-4.png</thumbnail>
+<fanart>https://ia801502.us.archive.org/4/items/warnerbroslogo4/Warner-Bros-logo-4.png</fanart>
+<info></info>
+</item>
+<item>
