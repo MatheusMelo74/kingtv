@@ -1,0 +1,6 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/30/items/foxchannelgermany.svg/FOX-Channel-Germany.svg.png" tvg-id="0" group-title="CANAIS", FOX
+https://live.multicanais.com/mylive/foxfullhd/chunks.m3u8?md5=q1yHa7vu2iQ29e2zBP9Vbg&expires=1570623677
