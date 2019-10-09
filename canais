@@ -5,13 +5,10 @@
 
 
 <item>
-<title>[B][COLOR lime]WARNER[/COLOR] HD[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime]FULLHD[/COLOR] - AUDIO ORIGINAL</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime]FULLHD[/COLOR] - DUBLADO</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR red]HDCAM[/COLOR] - DUBLADO 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR red]HDCAM[/COLOR] - DUBLADO 2</link>
-<thumbnail>https://ia801502.us.archive.org/4/items/warnerbroslogo4/Warner-Bros-logo-4.pnghttps://ia801502.us.archive.org/4/items/warnerbroslogo4/Warner-Bros-logo-4.png</thumbnail>
-<fanart>https://ia801502.us.archive.org/4/items/warnerbroslogo4/Warner-Bros-logo-4.png</fanart>
+<title>[B][COLOR lime]WARNER[/COLOR] SD/HD[/B]</title>
+<link>https://live.multicanais.com/live/warnerbroshd/chunks.m3u8?md5=2Uo3L5uCXOJ1kdnhzBmXIg&expires=1570622752</link>
+<thumbnail>https://ia601502.us.archive.org/4/items/warnerbroslogo4/Warner-Bros-logo-4.png</thumbnail>
+<fanart>https://ia801406.us.archive.org/18/items/fanart_20191009/fanart.jpg</fanart>
 <info></info>
 </item>
 <item>
