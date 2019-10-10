@@ -43,14 +43,14 @@
 
 <streamingInfos>
 <item>
-<title>TESTE WARNER</title>
+[COLOR white][B]TESTE WARNER[/B][/COLOR] [COLOR gold][B]SD/HD[/B][/COLOR]
 <link>plugin://plugin.video.f4mTester/?url=https://live.multicanais.com/mylive/warnerbrosssd/chunks.m3u8?md5=Mv9f4n-jrKMa5Dxc_uheYQ&expires=1570685085</link>
 
 ########################## ESPORTES ##########################
 <item>
 <title>[COLOR white][B]SPORTV[/B][/COLOR] [COLOR gold][B]SD/HD[/B][/COLOR]</title>
-<link>http://painel.ebanonet.com.br:25461/a7891m12ormy/zrpTrmiZRGJ/4327$$lsname=[COLOR gold][B]SD[/B][/COLOR]</link>
-<link>http://painel.ebanonet.com.br:25461/a7891m12ormy/zrpTrmiZRGJ/4327$$lsname=[COLOR gold][B]HD[/B][/COLOR]</link>
+<link>http://158.69.24.208:8081/live/netiptv208/208/512.ts$$lsname=[COLOR gold][B]SD[/B][/COLOR]</link>
+<link>http://158.69.24.208:8081/live/netiptv208/208/512.ts$$lsname=[COLOR gold][B]HD[/B][/COLOR]</link>
 <thumbnail>https://i.imgur.com/Kxem8ae.jpg</thumbnail>
 <fanart>https://ia801406.us.archive.org/18/items/fanart_20191009/fanart.jpg</fanart>
 </item>
