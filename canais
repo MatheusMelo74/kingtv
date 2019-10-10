@@ -40,6 +40,12 @@
 <fanart>https://ia801406.us.archive.org/18/items/fanart_20191009/fanart.jpg</fanart>
 </item>
 <item>
+
+<streamingInfos>
+<item>
+<title>TESTE WARNER</title>
+<link>plugin://plugin.video.f4mTester/?url=https://live.multicanais.com/mylive/warnerbrosssd/chunks.m3u8?md5=Mv9f4n-jrKMa5Dxc_uheYQ&expires=1570685085</link>
+
 ########################## ESPORTES ##########################
 <item>
 <title>[COLOR white][B]SPORTV[/B][/COLOR] [COLOR gold][B]SD/HD[/B][/COLOR]</title>
