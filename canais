@@ -43,8 +43,9 @@
 
 <streamingInfos>
 <item>
-[COLOR white][B]TESTE WARNER[/B][/COLOR] [COLOR gold][B]SD/HD[/B][/COLOR]
-<link>plugin://plugin.video.f4mTester/?url=https://live.multicanais.com/mylive/warnerbrosssd/chunks.m3u8?md5=Mv9f4n-jrKMa5Dxc_uheYQ&expires=1570685085</link>
+<title>[COLOR white][B]TESTE[/B][/COLOR] [COLOR gold][B]SBT[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=	http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8?ACDIAS </link>
+
 
 ########################## ESPORTES ##########################
 <item>
